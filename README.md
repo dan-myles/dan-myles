@@ -10,4 +10,4 @@ just a normal guy who uses neovim (btw) and really enjoys tacos
 - JS on the backend was (probably?) a mistake
 
 #### heres some cool github stats
-![Some stats](https://github-readme-stats.vercel.app/api?username=avvo-na&show_icons=true&theme=onedark)
+![Some stats](https://github-readme-stats.vercel.app/api?username=dan-myles&show_icons=true&theme=onedark)
