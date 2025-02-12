@@ -7,6 +7,7 @@ just a normal guy who uses neovim (btw) and really enjoys tacos
 - love motorcycles
 - enjoy ricing linux
 - C++ should have a package manager
+- typescript on the backend is growing on me
 
 #### heres some cool github stats
 ![Some stats](https://github-readme-stats.vercel.app/api?username=dan-myles&show_icons=true&theme=onedark)
